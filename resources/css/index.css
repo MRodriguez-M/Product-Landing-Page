@@ -2,6 +2,22 @@
     position: fixed;
     top: 0;
     right: 0;
+    font-family: Monaco, monospace, sans-serif;
+}
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+#form {
+    text-align: center;
+    font-family: Monaco, monospace, sans-serif;
+    line-height: 2em;
+}
+#submit {
+    background-color: #FA8223;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
 }
 @media (max-width: 700px) {
     #about-imgs {
