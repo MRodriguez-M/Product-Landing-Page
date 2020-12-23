@@ -4,6 +4,9 @@
     right: 0;
     font-family: Monaco, monospace, sans-serif;
     width: 80%;
+    height: 15%;
+    text-align: right;
+    background-color: white;
 }
 .nav-link {
     text-decoration: none;
