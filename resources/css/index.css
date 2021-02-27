@@ -23,7 +23,7 @@
     cursor: pointer;
     padding: 10px;
 }
-#about, #how-it-works {
+#about, #how-it-works, #prices {
     margin: auto;
     width: 50%;
     font-family: Monaco, monospace, sans-serif;
@@ -34,6 +34,17 @@
     left: 0;
     width: 20%
 }
+
+#pricing-containers {
+    display: flex;
+}
+
+.pricing-child {
+    flex: 1;
+    margin-right: 20px;
+    background-color: white;
+}
+
 body {
     background-color: #FEFEB1;
     padding-top: 10%;
