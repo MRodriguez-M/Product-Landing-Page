@@ -43,6 +43,9 @@
     flex: 1;
     margin-right: 20px;
     background-color: white;
+    border-style: solid;
+    text-align: center;
+    line-height: 2;
 }
 
 body {
