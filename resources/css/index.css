@@ -45,7 +45,20 @@
     background-color: white;
     border-style: solid;
     text-align: center;
-    line-height: 2;
+    line-height: 1.5;
+    padding-bottom: 5px;
+}
+
+button {
+    background-color: #FA8223;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 17px;
+}
+
+#disclaimer {
+    text-align: center;
 }
 
 body {
